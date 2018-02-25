@@ -9,9 +9,15 @@ After this you can execute the script for a domain of your choice:
   
 Sample output from this is:
 dns.google.com has address 216.58.198.78
+
 www.google.com has address 209.85.203.104
+
 www.google.com has address 209.85.203.99
+
 www.google.com has address 209.85.203.105
+
 www.google.com has address 209.85.203.147
+
 www.google.com has address 209.85.203.103
+
 www.google.com has address 209.85.203.106
